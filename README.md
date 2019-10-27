@@ -5,3 +5,5 @@ bCNC es un programa desarrollado en python2.7 cuya función es controlar una má
 - Descargar y descomprimir el archivo bCNC-0.9.14.62.tar.gz
 - Copiar la carpeta /bCNC-0.9.14.62 dentro de la carpeta /usr/lib/python2.7/
 - Crear lanzador con orden /usr/lib/python2.7/bCNC-0.9.14.62/bCNC/bCNC
+
+![](bCNC-principal.png)
