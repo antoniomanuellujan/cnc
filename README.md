@@ -7,3 +7,7 @@ bCNC es un programa desarrollado en python2.7 cuya función es controlar una má
 - Crear lanzador con orden /usr/lib/python2.7/bCNC-0.9.14.62/bCNC/bCNC
 
 ![](bCNC-principal.png)
+
+##Link 
+- https://pypi.org/project/bCNC/
+- https://github.com/vlachoudis/bCNC
