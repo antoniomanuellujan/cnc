@@ -8,6 +8,6 @@ bCNC es un programa desarrollado en python2.7 cuya función es controlar una má
 
 ![](bCNC-principal.png)
 
-##Link 
+## Link 
 - https://pypi.org/project/bCNC/
 - https://github.com/vlachoudis/bCNC
