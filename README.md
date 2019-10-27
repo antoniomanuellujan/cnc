@@ -10,4 +10,4 @@ bCNC es un programa desarrollado en python2.7 cuya función es controlar una má
 
 ## Link 
 - https://pypi.org/project/bCNC/
-- https://github.com/vlachoudis/bCNC
+- https://github.com/vlachoudis/bCNC/wiki
